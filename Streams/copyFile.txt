@@ -1,0 +1,6 @@
+and : 1
+but : 1
+is : 4
+me : 4
+not : 2
+this : 4
